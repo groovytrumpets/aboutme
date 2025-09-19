@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Nam Khanh</h1>
 <h3 align="center">A passionate backend developer from Vietnam</h3>
 
-- 🔭 I’m currently working on **HappyPrograming**
-
-- 🌱 I’m currently learning **Java web, C#**
 
 - 📫 How to reach me **nguyennamkhanhnnk@gmail.com**
 
